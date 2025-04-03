@@ -1,4 +1,4 @@
-## Coffee Orders Dashboard: Analyzing Coffee Sales Trends & Insights
+## Espresso Orders Dashboard: Analyzing Coffee Sales Trends & Insights
 
 This project is a comprehensive analysis of coffee sales using data from multiple worksheets in Excel. By leveraging various Excel functions such as XLOOKUP, I was able to integrate data from different sources, clean the data by removing duplicates, and create meaningful insights that showcase sales trends, customer behavior, and product preferences.
 
